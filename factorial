@@ -2,7 +2,7 @@
 int main()
 {
     int a;
-    scanf("%5d",&a);
+    scanf("%d",&a);
     int fact(int a);
     printf("%d", fact(a));
     }
