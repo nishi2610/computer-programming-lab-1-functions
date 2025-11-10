@@ -2,6 +2,7 @@
 int main()
 {
     int a;
+    printf("enter the number:\n");
     scanf("%d",&a);
     int fact(int a);
     printf("%d", fact(a));
